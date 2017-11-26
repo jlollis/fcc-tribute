@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hyades.jpg/1200px-Hyades.jpg");
+}
+
+.main-section {
+ padding: 20px 50px 20px 50px;
+ background: #D3D3D3;
+}
+
+.title {
+  padding: 10px 0px 20px 0px;
+}
+
+h1 {
+  padding-bottom: 8px;
+}
+
+.img-text {
+  padding: 10px 0px 20px 0px;
+}
+
