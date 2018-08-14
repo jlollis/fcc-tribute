@@ -5,4 +5,4 @@ This is a tribute page, which I created as a small project for [Free Code Camp](
 
 You can view it live here: [Margaret Hamilton Tribute Page](https://jlollis.github.io/fcc-tribute/)
 
-
+![screenshot](https://github.com/jlollis/fcc-tribute/blob/master/screenshot.jpg)
