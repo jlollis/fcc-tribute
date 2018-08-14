@@ -1,4 +1,4 @@
-Margaret Hamilton Tribute Page
+Tribute Page
 ===============
 
 This is a tribute page, which I created as a small project for [Free Code Camp](https://www.freecodecamp.org/) in November 2017.
