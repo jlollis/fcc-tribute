@@ -1,6 +1,10 @@
-# fcc-tribute
+Margaret Hamilton Tribute Page
+===============
 
-If you really want to see it in all its glory, the tribute page project from Free Code Camp is available here:
+This is a tribute page, which I created as a small project for [Free Code Camp](https://www.freecodecamp.org/) in November 2017.
 
-[https://jlollis.github.io/fcc-tribute/](https://jlollis.github.io/fcc-tribute/)
+You can view it live here: [Margaret Hamilton Tribute Page](https://jlollis.github.io/fcc-tribute/)
+
+
+![dangcoolpic](https://futurism.com/wp-content/uploads/2016/07/sage.jpg)
 
