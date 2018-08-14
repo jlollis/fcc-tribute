@@ -3,7 +3,7 @@ Tribute Page
 
 This is a tribute page, which I created as a small project for [Free Code Camp](https://www.freecodecamp.org/) in November 2017.
 
-You can view it live here: [Margaret Hamilton Tribute Page](https://jlollis.github.io/fcc-tribute/)
+You can view it live here: [Tribute Page on Github Pages](https://jlollis.github.io/fcc-tribute/)
 
 ![screenshot](https://github.com/jlollis/fcc-tribute/blob/master/screenshot.jpg)
 
